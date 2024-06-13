@@ -51,4 +51,4 @@ Tabloya uygulanan stil özellikleri şunlardır:
 
 ## Yazar
 
-Bu proje [Umut Karakoç] tarafından oluşturulmuştur.
+Bu proje Umut Karakoç tarafından oluşturulmuştur.
